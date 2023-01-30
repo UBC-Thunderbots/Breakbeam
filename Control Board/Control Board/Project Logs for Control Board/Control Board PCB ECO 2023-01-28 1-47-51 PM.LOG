@@ -1,0 +1,58 @@
+Add Component: Footprint Not Found FP-CGA3E-0_3-0_1-IPC_A
+Add Component: Footprint Not Found FP-CGA3E-0_3-0_1-IPC_A
+Add Component: Footprint Not Found FP-CGA3E-0_3-0_1-IPC_A
+Add Component: Footprint Not Found FP-CGA3E-0_3-0_1-IPC_A
+Added Component: Designator=J?(SM04B-SURS-TF(LF)(SN))
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "455-3589-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "455-3589-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "455-3589-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "SM04B-SURS-TF(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM04B-SURS-TF(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CN 4POS JST SUR RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-3589-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "38K7687"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SM04B-SURS-TF-LF-SN/7230518?s=N4IgTCBcDaICwFYEFoDMCAcBOZBGZAcgCIgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 2"; Value = "https://canada.newark.com/jst-japan-solderless-terminals/sm04b-surs-tf-lf-sn/wire-board-connector-header-4/dp/38K7687?CMP=AFC-OP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(E3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1995/1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found DCK0003A_N
+Add Component: Footprint Not Found SOT-23-OT5_N
+Add Component: Footprint Not Found DCK0003A_N
+Add Component: Footprint Not Found DBV0005A_M
+Add Component: Footprint Not Found SOT-23-OT5_N
+Added Pin To Net: NetName=+3.3 Pin=Q?-3
+Added Net: Name=+3.3
+Added Net: Name=+5
+Added Net: Name=GND
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Added Net: Name=NetC?_2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Net: Name=NetQ?_2
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Net: Name=NetR?_2
+Added Class: Name=Control Board
+Added Room: Name=Control Board

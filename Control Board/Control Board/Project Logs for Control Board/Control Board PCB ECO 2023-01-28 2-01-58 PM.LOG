@@ -1,0 +1,69 @@
+Add Component: Footprint Not Found FP-CGA3E-0_3-0_1-IPC_A
+Add Component: Footprint Not Found FP-CGA3E-0_3-0_1-IPC_A
+Add Component: Footprint Not Found FP-CGA3E-0_3-0_1-IPC_A
+Add Component: Footprint Not Found FP-CGA3E-0_3-0_1-IPC_A
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found DCK0003A_N
+Add Component: Footprint Not Found SOT-23-OT5_N
+Add Component: Footprint Not Found DBV0005A_M
+Add Component: Footprint Not Found SOT-23-OT5_N
+Add Component: Footprint Not Found DCK0003A_N
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Class Member: Failed to add class member : Component C1 0.1uF
+Add Class Member: Failed to add class member : Component C2 0.1uF
+Add Class Member: Failed to add class member : Component C3 0.1uF
+Add Class Member: Failed to add class member : Component C4 0.1uF
+Add Class Member: Failed to add class member : Component D1 Light-Emitting Diode
+Added Member To Class: ClassName=Control Board Member=Component J? 0436500214
+Add Class Member: Failed to add class member : Component R1 0
+Add Class Member: Failed to add class member : Component R2 0
+Add Class Member: Failed to add class member : Component R3 0
+Add Class Member: Failed to add class member : Component R4 0
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 0
+Add Class Member: Failed to add class member : Component U1 REF3325AIDCKT
+Add Class Member: Failed to add class member : Component U2 1.5V Comparator
+Add Class Member: Failed to add class member : Component U3 AND Gate
+Add Class Member: Failed to add class member : Component U4 1.5V Comparator
+Add Class Member: Failed to add class member : Component U5 REF3325AIDCKT

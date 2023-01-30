@@ -1,0 +1,88 @@
+Change Component Footprint: Designator=J? Old Footprint=SM04B-SURS-TF(LF)(SN) New Footprint=43650-0214
+Change Component Comment : Designator=J? Old Comment=SM04B-SURS-TF(LF)(SN) New Comment=0436500214
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change component parameters: Designator = "J?" ("J?"); Footprint = "SM04B-SURS-TF(LF)(SN)"; UniqueID = "\VGOKYBGE" ("\VGOKYBGE")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us//0436500214_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "0436500214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "43650-0214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CN HDR 2POS Molex 0436500214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM14310CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "39AH6218"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "43650-0214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 4"; Value = "538-43650-0214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.com/en/products/detail/molex/0436500214/3310534"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found FP-CGA3E-0_3-0_1-IPC_A
+Add Component: Footprint Not Found FP-CGA3E-0_3-0_1-IPC_A
+Add Component: Footprint Not Found FP-CGA3E-0_3-0_1-IPC_A
+Add Component: Footprint Not Found FP-CGA3E-0_3-0_1-IPC_A
+Added Component: Designator=CON?(CN 3POS JST B3B-ZR)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-ZR(LF)(SN)/926565?utm_source=snapeda&utm_medium=aggregator&utm_campaign=buynow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey"; Value = "455-1658-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B3B-ZR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CN 3POS JST B3B-ZR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B3B-ZR/JST%20Sales%20America%20Inc./view-part/496625/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found RESC1608X55X25ML10T15
+Add Component: Footprint Not Found DCK0003A_N
+Add Component: Footprint Not Found SOT-23-OT5_N
+Add Component: Footprint Not Found DBV0005A_M
+Add Component: Footprint Not Found SOT-23-OT5_N
+Add Component: Footprint Not Found DCK0003A_N
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U5-1
+Added Net: Name=NetC1_1
+Added Net: Name=NetC3_1
+Added Net: Name=NetC4_2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Net: Name=NetQ1_2
+Added Net: Name=NetR1_1
+Added Net: Name=NetR2_1
+Added Net: Name=NetR3_1
+Added Net: Name=NetR4_1
+Added Net: Name=NetR4_2
+Add Class Member: Failed to add class member : Component C1 0.1uF
+Add Class Member: Failed to add class member : Component C2 0.1uF
+Add Class Member: Failed to add class member : Component C3 0.1uF
+Add Class Member: Failed to add class member : Component C4 0.1uF
+Added Member To Class: ClassName=Control Board Member=Component CON? CN 3POS JST B3B-ZR
+Add Class Member: Failed to add class member : Component D1 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component R1 0
+Add Class Member: Failed to add class member : Component R2 0
+Add Class Member: Failed to add class member : Component R3 0
+Add Class Member: Failed to add class member : Component R4 0
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 0
+Add Class Member: Failed to add class member : Component U1 REF3325AIDCKT
+Add Class Member: Failed to add class member : Component U2 1.5V Comparator
+Add Class Member: Failed to add class member : Component U3 AND Gate
+Add Class Member: Failed to add class member : Component U4 1.5V Comparator
+Add Class Member: Failed to add class member : Component U5 REF3325AIDCKT
