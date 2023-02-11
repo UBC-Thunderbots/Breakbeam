@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetQ?_1 Pin=R?-1
+Removed Pin From Net: NetName=NetD?_1 Pin=R?-2
+Removed Pin From Net: NetName=NetR?_2 Pin=U?-2
+Removed Pin From Net: NetName=GND Pin=U?-3
+Add Component: Footprint Not Found SOT-23-5_MC_MCH-L
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Control Board Member=Component C? 0.1uF
+Added Member To Class: ClassName=Control Board Member=Component C? 0.1uF
+Added Member To Class: ClassName=Control Board Member=Component C? 0.1uF
+Added Member To Class: ClassName=Control Board Member=Component J? 3pos180connector
+Added Member To Class: ClassName=Control Board Member=Component R? 0
+Added Member To Class: ClassName=Control Board Member=Component R? 0
+Added Member To Class: ClassName=Control Board Member=Component R? Resistor
+Added Member To Class: ClassName=Control Board Member=Component R? 0
+Added Member To Class: ClassName=Control Board Member=Component R? 0
+Added Member To Class: ClassName=Control Board Member=Component U? SN74AHC1G08DBV3
+Added Member To Class: ClassName=Control Board Member=Component U? REF3325AIDCKT
+Added Member To Class: ClassName=Control Board Member=Component U? REF3325AIDCKT
+Added Member To Class: ClassName=Control Board Member=Component U? 1.5V Comparator

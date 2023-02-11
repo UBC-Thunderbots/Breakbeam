@@ -1,0 +1,239 @@
+Added Component: Designator=C?(0603)
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603/0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP 0.10uF 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0603)
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603/0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP 0.10uF 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10uF"; VariantName = "[No Variations]"
+Added Component: Designator=D?(0603 - LED)
+Add component (AddParameter): Name = "Current Rating"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "LTST-C190KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LED GREEN SMD 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "160-1435-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/lite-on-inc/LTST-C190KGKT/386815?s=N4IgTCBcDaIIwDYAMBaOAWAzAVjSgcgCIgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating - DC"; Value = "2V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(JST_B3B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST%20Sales%20America%20Inc./view-part/231271/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CN HDR 3POS JST XH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B3B-XH-A(LF)(SN)/JST%20Sales%20America%20Inc./view-part/231271/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-2248-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-XH-A-LF-SN/1651046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(CONN_SM02B-ZESS-TB_JST)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM02B-ZESS-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CN HDR 2POS JST ZE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-2395-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SM02B-ZESS-TB-LF-SN/1887001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J?(CONN_SM04B_JST)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "455-1804-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "455-1804-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "455-1804-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM04B-SRSS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CN HDR 4POS JST SH_SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1804-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB-LF-SN/926710"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(JSCJ-SOT23-3_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.cj-elec.com/gallery/txUpfile/5140ba9ed47d18467ea4bddc055cd747.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 04/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Jiangsu Changjiang Electronics Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Dual Supply"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Vgs"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor, Body 2.9 x 1.3 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. E, 09/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs (Max)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RK73Z1JTTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 0 JUMPER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2019-RK73Z1JTTDCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 1.1k 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RK73Z1JTTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 0 JUMPER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2019-RK73Z1JTTDCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RK73Z1JTTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 0 JUMPER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2019-RK73Z1JTTDCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RK73Z1JTTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 0 JUMPER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2019-RK73Z1JTTDCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RK73Z1JTTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 0 JUMPER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2019-RK73Z1JTTDCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-23-5_MC_MCH-L)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "2156-SN74AHC1G08DBV3-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "296-SN74AHC1G08DBV3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "296-SN74AHC1G08DBV3DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "296-SN74AHC1G08DBV3TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "SN74AHC1G08DBV3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74AHC1G08DBV3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SN74AHC1G08DBV3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-SN74AHC1G08DBV3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/texas-instruments/SN74AHC1G08DBV3/10434480"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-23-5_MC_MCH-L)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MCP6541RT-E/OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "COMPARATOR MCP6541RT-EOT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCP6541RT-E/OTCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/microchip-technology/MCP6541RT-E-OT/870211"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-23-5_MC_MCH-L)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "MCP6541RT-E/OT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "COMPARATOR MCP6541RT-EOT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCP6541RT-E/OTCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/microchip-technology/MCP6541RT-E-OT/870211"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-23-5_MC_MCH-L)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "2156-SN74AHC1G08DBV3-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "296-SN74AHC1G08DBV3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "296-SN74AHC1G08DBV3DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_4"; Value = "296-SN74AHC1G08DBV3TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "REF2030QDDCRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN74AHC1G08DBV3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "REF2030QDDCRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-REF2030QDDCRQ1CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/texas-instruments/REF2030QDDCRQ1/15926651?s=N4IgjCBcpg7LBOKoDGUBmBDANgZwKYA0IA9lANogCsVAHHSALrEAOALlCAMpsBOAlgDsA5iAC%2BxALQAmZCDSQ%2BAVyKkK1JmK1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=J?-1
+Added Pin To Net: NetName=+3.3 Pin=J?-2
+Added Pin To Net: NetName=+3.3 Pin=J?-4
+Added Pin To Net: NetName=+3.3 Pin=Q?-2
+Added Pin To Net: NetName=+3.3 Pin=U?-5
+Added Pin To Net: NetName=+3.3 Pin=U?-5
+Added Pin To Net: NetName=+3.3 Pin=U?-5
+Added Pin To Net: NetName=+3.3 Pin=U?-5
+Added Net: Name=+3.3
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=Q?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-1
+Added Pin To Net: NetName=NetC?_2 Pin=U?-3
+Added Pin To Net: NetName=NetC?_2 Pin=U?-3
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=U?-4
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=U?-4
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-2
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-1
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Control Board Member=Component C? 0.10uF
+Added Member To Class: ClassName=Control Board Member=Component C? 0.10uF
+Added Member To Class: ClassName=Control Board Member=Component D? 0603 2V
+Added Member To Class: ClassName=Control Board Member=Component J? B3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Control Board Member=Component J? SM02B-ZESS-TB(LF)(SN)
+Added Member To Class: ClassName=Control Board Member=Component J? SM04B-SRSS-TB(LF)(SN)
+Added Member To Class: ClassName=Control Board Member=Component Q? CJ2305
+Added Member To Class: ClassName=Control Board Member=Component R? JUMPER
+Added Member To Class: ClassName=Control Board Member=Component R? 1.1k
+Added Member To Class: ClassName=Control Board Member=Component R? JUMPER
+Added Member To Class: ClassName=Control Board Member=Component R? JUMPER
+Added Member To Class: ClassName=Control Board Member=Component R? JUMPER
+Added Member To Class: ClassName=Control Board Member=Component R? JUMPER
+Added Member To Class: ClassName=Control Board Member=Component U? SN74AHC1G08DBV3
+Added Member To Class: ClassName=Control Board Member=Component U? MCP6541RT-E/OT
+Added Member To Class: ClassName=Control Board Member=Component U? MCP6541RT-E/OT
+Added Member To Class: ClassName=Control Board Member=Component U? REF2030QDDCRQ1
