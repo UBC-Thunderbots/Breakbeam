@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=+3.3 Pin=R1-1
+Removed Pin From Net: NetName=NetD1_A Pin=R1-2
+Removed Pin From Net: NetName=+3.3 Pin=R2-1
+Removed Pin From Net: NetName=NetD2_A Pin=R2-2
+Change Component Footprint: Designator=R1 Old Footprint=0603 New Footprint=RESC1608X59N
+Change Component Footprint: Designator=R2 Old Footprint=0603 New Footprint=RESC1608X59N
+Change Component Comment : Designator=R1 Old Comment=25 New Comment=RCP0603W25R0GEB
+Change Component Comment : Designator=R2 Old Comment=25 New Comment=RCP0603W25R0GEB
+Change component parameters: Designator = "R1" ("R1"); Footprint = "0603"; UniqueID = "\YGDIJAHH" ("\YGDIJAHH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RCP0603W25R0GEB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RCP0603W25R0GEB/Vishay/view-part/4110381/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "0603"; UniqueID = "\IDLKGJNT" ("\IDLKGJNT")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RCP0603W25R0GEB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1608 Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RCP0603W25R0GEB/Vishay/view-part/4110381/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_A Pin=R1-1
+Added Pin To Net: NetName=+3.3 Pin=R1-2
+Added Pin To Net: NetName=NetD2_A Pin=R2-1
+Added Pin To Net: NetName=+3.3 Pin=R2-2

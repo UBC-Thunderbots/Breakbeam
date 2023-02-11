@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=J1 Old Footprint=CONN_S4B-ZR-SM4A-TF(LF)(SN)_JST New Footprint=CONN_SM04B_JST
+Change Component Comment : Designator=J1 Old Comment=S4B-ZR-SM4A-TF(LF)(SN) New Comment=SM04B-SRSS-TB(LF)(SN)
+Change component parameters: Designator = "J1" ("J1"); Footprint = "CONN_S4B-ZR-SM4A-TF(LF)(SN)_JST"; UniqueID = "\TFTFYMZB" ("\TFTFYMZB")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM04B-SRSS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"

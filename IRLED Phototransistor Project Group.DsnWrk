@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=IRLED Board\IRLED Board\IRLED Board.PrjPcb
+[Project2]
+ProjectPath=Phototransistor Board\Phototransistor Board\Phototransistor Board.PrjPcb
