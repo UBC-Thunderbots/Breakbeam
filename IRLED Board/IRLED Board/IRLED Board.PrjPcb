@@ -25,16 +25,24 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
 AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -244,57 +252,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DIAEUGGY
 
-[Document13]
-DocumentPath=..\..\..\..\..\Downloads\ul_S2B-ZR-SM4A-TF-LF-SN-\AltiumDesigner\2023-02-02_01-20-09\S2B-ZR-SM4A-TF_LF__SN_.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
-DocumentPath=..\..\..\..\..\Downloads\ul_S2B-ZR-SM4A-TF-LF-SN-\AltiumDesigner\2023-02-02_01-20-09\S2B-ZR-SM4A-TF_LF__SN_.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document15]
-DocumentPath=..\..\..\..\..\Downloads\RCP0603W25R0GEB\RCP0603W25R0GEB.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for IRLED Board\Design Rule Check - IRLED Board.html
 DItemRevisionGUID=
@@ -312,7 +269,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=EPSONC91BBE (WF-3720 Series)
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -418,7 +375,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=EPSONC91BBE (WF-3720 Series)
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -429,7 +386,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType2=PCB 3D Print
@@ -447,7 +404,7 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType4=PCB Print
 OutputName4=PCB Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType5=PCBDrawing
@@ -459,7 +416,7 @@ PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType6=PCBLIB Print
 OutputName6=PCBLIB Prints
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType7=PDF3D
@@ -492,11 +449,23 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Harness Layout Drawing Print
+OutputName12=Harness Layout Drawing Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType13=Harness Wiring Diagram Print
+OutputName13=Harness Wiring Diagram Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=EPSONC91BBE (WF-3720 Series)
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -518,7 +487,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=EPSONC91BBE (WF-3720 Series)
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -529,13 +498,13 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType2=CompositeDrill
 OutputName2=Composite Drill Drawing
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType3=Drill
 OutputName3=Drill Drawing/Guides
 OutputDocumentPath3=
-OutputVariantName3=
+OutputVariantName3=[No Variations]
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType4=Final
@@ -552,17 +521,17 @@ OutputDefault5=0
 OutputType6=Gerber X2
 OutputName6=Gerber X2 Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
 OutputType7=IPC2581
 OutputName7=IPC-2581 Files
 OutputDocumentPath7=
-OutputVariantName7=
+OutputVariantName7=[No Variations]
 OutputDefault7=0
 OutputType8=Mask
 OutputName8=Solder/Paste Mask Prints
 OutputDocumentPath8=
-OutputVariantName8=
+OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType9=NC Drill
@@ -578,7 +547,7 @@ OutputDefault10=0
 OutputType11=Plane
 OutputName11=Power-Plane Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType12=Test Points
@@ -590,7 +559,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=EPSONC91BBE (WF-3720 Series)
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -639,7 +608,7 @@ OutputDefault8=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=EPSONC91BBE (WF-3720 Series)
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -747,7 +716,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=EPSONC91BBE (WF-3720 Series)
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -791,7 +760,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=EPSONC91BBE (WF-3720 Series)
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -848,11 +817,16 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Web ReviewOutputName
+OutputName12=Web Review Data
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=EPSONC91BBE (WF-3720 Series)
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1171,12 +1145,13 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
-MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
+Type126=1
+Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1223,6 +1198,24 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Connector_Library.DbLib/Connectors
+ComponentDesignItemID0=CN HDR 2POS JST ZE
+ComponentSymbolReference0=CN HDR 2POS JST ZE
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Diode_Library.DbLib/Diodes
+ComponentDesignItemID1=TSAL4400
+ComponentSymbolReference1=TSAL4400
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Resistor_Library.DbLib/Resistors
+ComponentDesignItemID2=RES 25.0 1.5W
+ComponentSymbolReference2=RES 25.0 1.5W
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1236,6 +1229,65 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Availability
+ParameterUpdate0=1
+ParameterName1=Comment
+ParameterUpdate1=1
+ParameterName2=Component Kind
+ParameterUpdate2=1
+ParameterName3=Copyright
+ParameterUpdate3=1
+ParameterName4=Description
+ParameterUpdate4=1
+ParameterName5=Library Reference
+ParameterUpdate5=1
+ParameterName6=Manufacturer Part Number 1
+ParameterUpdate6=1
+ParameterName7=Manufacturer_Part_Number
+ParameterUpdate7=1
+ParameterName8=MF
+ParameterUpdate8=1
+ParameterName9=Mfr_Name
+ParameterUpdate9=1
+ParameterName10=MP
+ParameterUpdate10=1
+ParameterName11=Package
+ParameterUpdate11=1
+ParameterName12=Part Number
+ParameterUpdate12=1
+ParameterName13=Pin Count
+ParameterUpdate13=1
+ParameterName14=Power (Watts)
+ParameterUpdate14=1
+ParameterName15=Price
+ParameterUpdate15=1
+ParameterName16=RefDes
+ParameterUpdate16=1
+ParameterName17=SnapEDA_Link
+ParameterUpdate17=1
+ParameterName18=Supplier 1
+ParameterUpdate18=1
+ParameterName19=Supplier Part Number 1
+ParameterUpdate19=1
+ParameterName20=Supplier URL 1
+ParameterUpdate20=1
+ParameterName21=Tolerance
+ParameterUpdate21=1
+ParameterName22=Type
+ParameterUpdate22=1
+ParameterName23=Value
+ParameterUpdate23=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=0603
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=CONN_SM02B-ZESS-TB_JST
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=IR940FOOTPRINT
+ModelUpdate2=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
