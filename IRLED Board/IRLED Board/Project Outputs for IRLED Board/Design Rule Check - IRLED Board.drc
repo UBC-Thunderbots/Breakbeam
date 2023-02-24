@@ -1,37 +1,16 @@
 Protel Design System Design Rule Check
-<<<<<<< Updated upstream
-PCB File : C:\Users\henry\Documents\Documents\University\GitHub\PCB_Breakbeam\IRLED Board\IRLED Board\IRLED Board.PcbDoc
-Date     : 2/12/2023
-Time     : 12:27:52 AM
-
-Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad R1-1(2.664mm,0mm) on Top Layer And Pad R1-2(1.336mm,0mm) on Top Layer 
-   Violation between Clearance Constraint: (0.198mm < 0.254mm) Between Pad R2-1(2.5mm,12mm) on Top Layer And Pad R2-2(1.172mm,12mm) on Top Layer 
-Rule Violations :2
-=======
 PCB File : C:\Users\Brandon\Documents\GitHub\PCB_Breakbeam\IRLED Board\IRLED Board\IRLED Board.PcbDoc
-Date     : 2/23/2023
-Time     : 2:35:50 PM
+Date     : 2/24/2023
+Time     : 12:18:27 AM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
->>>>>>> Stashed changes
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-<<<<<<< Updated upstream
-   Violation between Un-Routed Net Constraint: Net NetD1_A Between Pad R1-1(2.664mm,0mm) on Top Layer And Pad D1-A(13.5mm,1.46mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad D2-C(13mm,7.73mm) on Multi-Layer And Pad D1-C(13.5mm,4mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-2(6.706mm,5.25mm) on Top Layer And Pad D1-C(13.5mm,4mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net NetD2_A Between Pad R2-1(2.5mm,12mm) on Top Layer And Pad D2-A(13mm,10.27mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad R1-2(1.336mm,0mm) on Top Layer And Pad J1-1(6.706mm,6.75mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad R2-2(1.172mm,12mm) on Top Layer And Pad J1-1(6.706mm,6.75mm) on Top Layer 
-Rule Violations :6
-=======
 Rule Violations :0
->>>>>>> Stashed changes
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -49,23 +28,14 @@ Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
-<<<<<<< Updated upstream
-Rule Violations :0
-
-Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (0.25mm < 0.254mm) Between Pad J1-1(6.706mm,6.75mm) on Top Layer And Track (6.206mm,7.5mm)(6.206mm,9.75mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.25mm]
-Rule Violations :1
-=======
-   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad J1-1(5.5mm,6.5mm) on Top Layer And Pad J1-2(5.5mm,5.5mm) on Top Layer [Top Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad J1-1(5.475mm,6.5mm) on Top Layer And Pad J1-2(5.475mm,5.5mm) on Top Layer [Top Solder] Mask Sliver [0.197mm]
 Rule Violations :1
 
 Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (0.218mm < 0.254mm) Between Pad J1-1(5.5mm,6.5mm) on Top Layer And Track (5.175mm,7.145mm)(5.175mm,8mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.218mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.173mm < 0.254mm) Between Pad J1-2(5.5mm,5.5mm) on Top Layer And Track (5.175mm,4mm)(5.175mm,4.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.173mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.176mm < 0.254mm) Between Pad J1-4(1.625mm,4.2mm) on Top Layer And Track (2.828mm,4mm)(5.175mm,4mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.176mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.217mm < 0.254mm) Between Pad R2-2(2.8mm,11mm) on Top Layer And Text "R2" (3.417mm,10.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.217mm]
-Rule Violations :4
->>>>>>> Stashed changes
+   Violation between Silk To Solder Mask Clearance Constraint: (0.218mm < 0.254mm) Between Pad J1-1(5.475mm,6.5mm) on Top Layer And Track (5.15mm,7.145mm)(5.15mm,8mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.218mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.173mm < 0.254mm) Between Pad J1-2(5.475mm,5.5mm) on Top Layer And Track (5.15mm,4mm)(5.15mm,4.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.173mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.176mm < 0.254mm) Between Pad J1-4(1.6mm,4.2mm) on Top Layer And Track (2.803mm,4mm)(5.15mm,4mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.176mm]
+Rule Violations :3
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
 Rule Violations :0
@@ -77,10 +47,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-<<<<<<< Updated upstream
-Violations Detected : 9
-=======
-Violations Detected : 5
->>>>>>> Stashed changes
+Violations Detected : 4
 Waived Violations : 0
 Time Elapsed        : 00:00:01
