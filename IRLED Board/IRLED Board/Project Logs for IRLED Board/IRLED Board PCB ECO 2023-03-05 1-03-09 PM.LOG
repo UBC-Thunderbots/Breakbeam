@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=D2-C
+Removed Pin From Net: NetName=NetD1_A Pin=R1-2
+Removed Pin From Net: NetName=NetD2_A Pin=R2-2
+Added Component: Designator=R1(2512)
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 2m 1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2m"; VariantName = "[No Variations]"
+Added Component: Designator=R2(2512)
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 2m 1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2m"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Pin To Net: NetName=NetD2_A Pin=R2-2
+Added Pin To Net: NetName=+3V3 Pin=J1-1
+Added Pin To Net: NetName=+3V3 Pin=R1-1
+Added Pin To Net: NetName=+3V3 Pin=R2-1
+Added Net: Name=+3V3
