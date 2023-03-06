@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=D2-C
+Removed Pin From Net: NetName=NetD1_A Pin=R1-2
+Removed Pin From Net: NetName=NetD2_A Pin=R2-2
+Added Component: Designator=R1(1206)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "HRG3216Q-24R0-D-T1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 24 1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "408-1904-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/susumu/HRG3216Q-24R0-D-T1/5762559"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24"; VariantName = "[No Variations]"
+Added Component: Designator=R2(1206)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "HRG3216Q-24R0-D-T1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 24 1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "408-1904-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/susumu/HRG3216Q-24R0-D-T1/5762559"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Pin To Net: NetName=NetD2_A Pin=R2-2
+Added Pin To Net: NetName=+3V3 Pin=J1-1
+Added Pin To Net: NetName=+3V3 Pin=R1-1
+Added Pin To Net: NetName=+3V3 Pin=R2-1
+Added Net: Name=+3V3
