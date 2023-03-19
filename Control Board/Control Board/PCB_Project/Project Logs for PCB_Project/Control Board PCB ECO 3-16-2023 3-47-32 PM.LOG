@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=C6 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C7 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C8 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C9 Old Footprint=0603 New Footprint=0805
+Add Component: Footprint Not Found SOT-23A-3
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Class Member: Failed to add class member : Component Q1 FET P_CH SOT23_3
+Add Class Member: Failed to add class member : Component R1 JUMPER
+Add Class Member: Failed to add class member : Component R2 JUMPER
+Add Class Member: Failed to add class member : Component R4 JUMPER

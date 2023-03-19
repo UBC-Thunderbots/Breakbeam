@@ -1,0 +1,26 @@
+Added Component: Designator=1V5(TP)
+Add component (AddParameter): Name = "Part Number"; Value = "Test Point (Via)"; VariantName = "[No Variations]"
+Added Component: Designator=B1CMP(TP)
+Add component (AddParameter): Name = "Part Number"; Value = "Test Point (Via)"; VariantName = "[No Variations]"
+Added Component: Designator=B1(TP)
+Add component (AddParameter): Name = "Part Number"; Value = "Test Point (Via)"; VariantName = "[No Variations]"
+Added Component: Designator=B2CMP(TP)
+Add component (AddParameter): Name = "Part Number"; Value = "Test Point (Via)"; VariantName = "[No Variations]"
+Added Component: Designator=B2(TP)
+Add component (AddParameter): Name = "Part Number"; Value = "Test Point (Via)"; VariantName = "[No Variations]"
+Added Component: Designator=ESP(TP)
+Add component (AddParameter): Name = "Part Number"; Value = "Test Point (Via)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1V5 Pin=1V5-1
+Added Pin To Net: NetName=BKBM1 Pin=B1-1
+Added Pin To Net: NetName=NetR1_2 Pin=B1CMP-1
+Added Pin To Net: NetName=BKBM2 Pin=B2-1
+Added Pin To Net: NetName=NetR4_2 Pin=B2CMP-1
+Added Pin To Net: NetName=ESP Pin=ESP-1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetB1CMP_1
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetB2CMP_1
+Added Member To Class: ClassName=Control Board Member=Component 1V5 Test Point (Via)
+Added Member To Class: ClassName=Control Board Member=Component B1CMP Test Point (Via)
+Added Member To Class: ClassName=Control Board Member=Component B1 Test Point (Via)
+Added Member To Class: ClassName=Control Board Member=Component B2CMP Test Point (Via)
+Added Member To Class: ClassName=Control Board Member=Component B2 Test Point (Via)
+Added Member To Class: ClassName=Control Board Member=Component ESP Test Point (Via)

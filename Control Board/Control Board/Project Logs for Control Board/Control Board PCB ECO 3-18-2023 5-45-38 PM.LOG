@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=1V5 Pin=TP?-1
+Removed Member From Class: ClassName=Control Board Member=TP?
+Added Component: Designator=1V5(TP)
+Add component (AddParameter): Name = "Part Number"; Value = "Test Point (Via)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1V5 Pin=1V5-1
+Added Member To Class: ClassName=Control Board Member=Component 1V5 Test Point (Via)
