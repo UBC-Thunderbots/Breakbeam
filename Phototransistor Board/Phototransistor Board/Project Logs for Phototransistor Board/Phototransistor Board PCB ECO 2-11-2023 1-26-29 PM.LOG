@@ -1,0 +1,14 @@
+Change Component Comment : Designator=R1 Old Comment=10M New Comment=5.1M
+Change Component Comment : Designator=R2 Old Comment=10M New Comment=5.1M
+Change component parameters: Designator = "R1" ("R1"); Footprint = "0603"; UniqueID = "\SMDWNCGV" ("\SMDWNCGV")
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES 5.1M 1/8W-5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "0603"; UniqueID = "\OSKZVRFH" ("\OSKZVRFH")
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES 5.1M 1/8W-5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1M"; VariantName = "[No Variations]"

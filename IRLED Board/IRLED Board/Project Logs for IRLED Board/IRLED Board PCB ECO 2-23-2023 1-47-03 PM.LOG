@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetD1_A Pin=R1-1
+Removed Pin From Net: NetName=3V3 Pin=R1-2
+Removed Pin From Net: NetName=NetD2_A Pin=R2-1
+Removed Pin From Net: NetName=3V3 Pin=R2-2
+Change Component Footprint: Designator=J1 Old Footprint=CONN_SM02B-ZESS-TB_JST New Footprint=SM02B-SRSS-TB(LF)(SN)
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608X59N New Footprint=0603
+Change Component Footprint: Designator=R2 Old Footprint=RESC1608X59N New Footprint=0603
+Change Component Comment : Designator=R1 Old Comment=RCP0603W25R0GEB New Comment=25.0
+Change Component Comment : Designator=R2 Old Comment=RCP0603W25R0GEB New Comment=25.0
+Change Component Comment : Designator=J1 Old Comment=SM02B-ZESS-TB(LF)(SN) New Comment=SM02B-SRSS-TB
+Change component parameters: Designator = "J1" ("J1"); Footprint = "CONN_SM02B-ZESS-TB_JST"; UniqueID = "\TOQMYFIR" ("\TOQMYFIR")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2023 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "SM02B-SRSS-TB(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM02B-SRSS-TB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CN HDR 2POS 90 JST SH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1802-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SM02B-SRSS-TB-LF-SN/926708"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC1608X59N"; UniqueID = "\BLVWNCSP" ("\BLVWNCSP")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RCP0603W25R0GEB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES 25.0 1.5W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "1.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-2654-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/vishay-dale/RCP0603W25R0GEB/5481868"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC1608X59N"; UniqueID = "\JKXKTQGL" ("\JKXKTQGL")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RCP0603W25R0GEB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES 25.0 1.5W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "1.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "541-2654-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/vishay-dale/RCP0603W25R0GEB/5481868"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "2%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "25"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=NetD2_A Pin=R2-2
