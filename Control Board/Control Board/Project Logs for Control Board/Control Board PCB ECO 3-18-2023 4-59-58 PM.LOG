@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=B1CMP NewDesignator=B1CP
+Change Component Designator: OldDesignator=B2CMP NewDesignator=B2CP
+Change Net Name : Old Net Name=NetB1CMP_1 New Net Name=NetB1CP_1
+Change Net Name : Old Net Name=NetB2CMP_1 New Net Name=NetB2CP_1

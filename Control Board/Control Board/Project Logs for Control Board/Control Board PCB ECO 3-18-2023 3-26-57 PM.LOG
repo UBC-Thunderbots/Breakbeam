@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BKBM1 Pin=U2-4
+Removed Pin From Net: NetName=BKBM2 Pin=U4-4
+Added Pin To Net: NetName=BKBM2 Pin=U2-4
+Added Pin To Net: NetName=BKBM1 Pin=U4-4
+Added Member To Class: ClassName=Control Board Member=Component U4 MCP6541RT-E/OT
