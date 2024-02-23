@@ -1,7 +1,13 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\omrik\OneDrive\Documents\GitHub\PCB_Breakbeam\Control Board\Control Board\Control Board.PcbDoc
-Date     : 2023-11-11
-Time     : 12:09:18 PM
+Date     : 2024-02-22
+Time     : 3:39:54 PM
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: GND_L01_P000 In net GND
+   Polygon named: 3V3_L02_P099
+   Polygon named: 3V3_L01_P097 In net 3V3
+   Polygon named: GND_L01_P092 In net GND
 
 Processing Rule : Clearance Constraint (Gap=8mil) (OnLayer('Top Layer')),(All)
 Rule Violations :0
@@ -19,7 +25,11 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-Rule Violations :0
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (3V3_L01_P097) on Top Layer 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (3V3_L02_P099) on Bottom Layer 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (GND_L01_P000) on Bottom Layer 
+   Violation between Modified Polygon: Polygon Not Repour After Edit  (GND_L01_P092) on Top Layer 
+Rule Violations :4
 
 Processing Rule : Width Constraint (Min=3.5mil) (Max=100mil) (Preferred=15mil) (All)
 Rule Violations :0
@@ -40,12 +50,7 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=3.937mil) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 3.937mil) Between Pad 1V5-1(1287.402mil,236.22mil) on Multi-Layer And Text "Ryan Nedjabat" (1521.559mil,227.99mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 3.937mil) Between Pad B1-1(1858.268mil,244.095mil) on Multi-Layer And Text "Brandon Seo" (2116.047mil,234.346mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (3.237mil < 3.937mil) Between Pad B1CP-1(1543.307mil,51.181mil) on Multi-Layer And Track (1003.937mil,19.685mil)(2135.827mil,19.685mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [3.237mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (1.269mil < 3.937mil) Between Pad B2-1(1938.976mil,49.213mil) on Multi-Layer And Track (1003.937mil,19.685mil)(2135.827mil,19.685mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [1.269mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 3.937mil) Between Pad B2CP-1(1532.917mil,233.091mil) on Multi-Layer And Text "Ryan Nedjabat" (1521.559mil,227.99mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-Rule Violations :5
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=3.937mil) (All),(All)
 Rule Violations :0
@@ -56,13 +61,13 @@ Rule Violations :0
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Room Control Board (Bounding Region = (1160.866mil, 990.984mil, 3174.37mil, 1476.535mil) (InComponentClass('Control Board'))
+Processing Rule : Room Control Board (Bounding Region = (1006.339mil, 949.252mil, 3167.362mil, 1500.158mil) (InComponentClass('Control Board'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 5
+Violations Detected : 4
 Waived Violations : 0
 Time Elapsed        : 00:00:01
