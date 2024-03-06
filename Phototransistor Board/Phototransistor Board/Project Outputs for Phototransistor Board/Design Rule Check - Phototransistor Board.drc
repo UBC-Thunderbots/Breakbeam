@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\omrik\OneDrive\Documents\GitHub\PCB_Breakbeam\Phototransistor Board\Phototransistor Board\Phototransistor Board.PcbDoc
-Date     : 2024-02-22
-Time     : 3:50:29 PM
+PCB File : C:\Users\sturn\Desktop\Thunderbots\Electrical\PCB_Breakbeam\Phototransistor Board\Phototransistor Board\Phototransistor Board.PcbDoc
+Date     : 2024-03-06
+Time     : 8:58:36 AM
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Top Layer')),(All)
 Rule Violations :0
